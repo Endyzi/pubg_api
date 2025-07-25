@@ -14,7 +14,7 @@ POSTED_MATCHES_FILE = "posted_matches.txt"
 # This file keeps track of matches that have already been posted to avoid duplicates.
 
 # === CONFIG ===
-TRACKED_PLAYERS = ["Fransbertil", "yooun05", "Dr_StYv", "Fatalityh", "bOYKA2y", "Sibbesinnes", "andreasbeast79", "50-KENT", "Iimp101"]
+TRACKED_PLAYERS = ["Fransbertil", "yooun05", "Dr_StYv", "Fatalityh", "bOYKA2y", "Sibbesinnes", "andreasbeast79", "50-KENT", "Iimp101", "TurboPotat0"]
 PLAYER_IDS = {}
 PLATFORM = "steam"
 
