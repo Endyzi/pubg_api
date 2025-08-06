@@ -699,3 +699,211 @@ eeb9c7db-9944-4522-b900-8a48e49b0c86 | 2025-07-24 21:55 | LOSS -----players -> F
 eff65052-314d-411e-921f-69869a418cf1 | 2025-07-25 20:39 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79, TurboPotat0
 f0558f0a-36fc-4b22-b0fe-c9c6622b8636 | 2025-07-25 21:03 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79, TurboPotat0
 bb9b4bcd-238a-46a7-9be0-85c4db73d520 | 2025-07-25 21:21 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79, TurboPotat0
+ed23182d-dbca-464e-8bba-815c9a97233e | 2025-07-25 21:35 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79, TurboPotat0
+1c7fd6ed-374b-499d-9f6d-a7a850b91291 | 2025-07-25 21:40 | LOSS -----players -> yooun05, Dr_StYv, andreasbeast79, TurboPotat0
+52a74126-d096-4291-92c0-4b616962323d | 2025-07-25 21:51 | LOSS -----players -> yooun05, Dr_StYv, andreasbeast79, TurboPotat0
+99da17af-24a4-4aee-8024-ab669422970e | 2025-07-25 22:17 | WIN -----players -> yooun05, Dr_StYv, andreasbeast79, TurboPotat0
+d221ba01-6bca-4adf-9654-2780007c5322 | 2025-07-25 22:46 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, andreasbeast79
+042cb1c5-65b5-4ddc-8d43-2fa10ef7de84 | 2025-07-25 22:50 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, andreasbeast79
+59a1fefb-6742-4044-bb4a-a8e4703b0dcd | 2025-07-25 23:17 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, andreasbeast79
+1a34c67e-032f-4fa8-809a-65e96765b0e1 | 2025-07-25 23:55 | LOSS -----players -> TurboPotat0
+09e2ad77-7fa4-4730-8901-17f82dec04de | 2025-07-26 00:25 | LOSS -----players -> TurboPotat0
+49abefc9-12c0-4fe1-a4aa-5dbd0b4fc58f | 2025-07-26 19:26 | LOSS -----players -> TurboPotat0
+103647d7-18fe-46eb-8032-d8d872c8e6a6 | 2025-07-26 19:40 | WIN -----players -> TurboPotat0
+26076b25-cee3-4088-aacf-88e1a251db58 | 2025-07-26 20:02 | LOSS -----players -> TurboPotat0
+af3b17fb-b2e8-4b71-bbcd-8263ceeb3608 | 2025-07-26 20:16 | WIN -----players -> TurboPotat0
+a34f6879-826b-44cb-99ab-6be4e1823229 | 2025-07-26 20:48 | LOSS -----players -> TurboPotat0
+90136481-6f32-42ca-9c0e-6cb30c949edd | 2025-07-26 21:14 | WIN -----players -> yooun05, Dr_StYv, andreasbeast79, TurboPotat0
+8fc77765-419d-4ecf-8024-f29735385112 | 2025-07-26 21:46 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79, TurboPotat0
+35fe3b32-b3ea-4b07-985d-7e3f70ed4eea | 2025-07-26 21:59 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79, TurboPotat0
+91e1a081-c0ca-435e-9aac-8953c0f764af | 2025-07-26 22:07 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79, TurboPotat0
+d5f117fe-060f-47e4-a27e-54568de9d27b | 2025-07-26 22:30 | LOSS -----players -> yooun05, Dr_StYv, andreasbeast79, TurboPotat0
+5cd48bc3-1c2b-473c-85bd-df8321cdbaa6 | 2025-07-26 22:40 | LOSS -----players -> yooun05, Dr_StYv, andreasbeast79, TurboPotat0
+197659c9-24e4-41d6-a4e4-181958d45cbc | 2025-07-26 22:55 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79, TurboPotat0
+32f52773-1562-4821-8bb7-46cbe2e465f9 | 2025-07-26 23:16 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79, TurboPotat0
+0dd9421b-308a-4872-82c8-966b67c629ad | 2025-07-26 23:41 | LOSS -----players -> Fransbertil, Dr_StYv, andreasbeast79, TurboPotat0
+ea7b6387-be2d-4977-9a98-d85baaec58b5 | 2025-07-26 23:51 | LOSS -----players -> Fransbertil, Dr_StYv, andreasbeast79, TurboPotat0
+8dd0eb3c-7bb4-4d70-a0ab-47e1d8f60f86 | 2025-07-26 23:59 | LOSS -----players -> Fransbertil, Dr_StYv, andreasbeast79, TurboPotat0
+c91e3e72-6acd-480d-95aa-d22db0940861 | 2025-07-27 00:20 | LOSS -----players -> yooun05, Dr_StYv, andreasbeast79, TurboPotat0
+7c0b9a4f-8d42-471f-bf13-cc62e610bb8e | 2025-07-27 00:25 | LOSS -----players -> yooun05, Dr_StYv, andreasbeast79, TurboPotat0
+a806666b-0d6f-452e-954f-1a0826b62939 | 2025-07-27 00:54 | LOSS -----players -> TurboPotat0
+22de053f-0805-44de-ba61-f14b2c796240 | 2025-07-27 01:09 | WIN -----players -> TurboPotat0
+090e8adf-8e41-497b-a8d9-5a1412757c0e | 2025-07-27 22:41 | LOSS -----players -> yooun05, Dr_StYv, andreasbeast79, TurboPotat0
+67dc24a3-222c-4d2c-9aab-649f360b4f09 | 2025-07-28 14:47 | LOSS -----players -> andreasbeast79
+6d8600f6-0849-4ed2-9125-4083c5d50dc9 | 2025-07-27 21:38 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79
+ef811773-7114-4ee6-ae32-04cde60aa7e7 | 2025-07-28 20:58 | LOSS -----players -> TurboPotat0
+1296e1f8-ad5d-496e-b0f9-fd8548c1e764 | 2025-07-27 23:27 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79, TurboPotat0
+6a012eb6-7f10-43ce-b0b2-3772efbec41b | 2025-07-29 15:56 | LOSS -----players -> andreasbeast79
+2b327872-9a71-421e-9a9a-53111d9bcde8 | 2025-07-29 16:15 | LOSS -----players -> andreasbeast79
+ae173552-0ff1-44b6-92a8-3943f40b0d77 | 2025-07-27 23:04 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79, TurboPotat0
+4b1200eb-fa46-400c-8cef-fb3e1e497760 | 2025-07-29 16:19 | LOSS -----players -> andreasbeast79
+23de2415-3938-4cf9-96d8-dcc0a063bc2e | 2025-07-27 22:22 | LOSS -----players -> yooun05, Dr_StYv, andreasbeast79, TurboPotat0
+997f954e-c436-4234-bb43-5870018e55bb | 2025-07-27 21:58 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79, TurboPotat0
+9dc64774-ebc1-49ab-95d3-cfb9fc892b08 | 2025-07-27 20:58 | LOSS -----players -> Fransbertil, Dr_StYv, andreasbeast79, TurboPotat0
+918906c7-9c94-4f1e-a625-78db0f2d8c37 | 2025-07-28 21:42 | WIN -----players -> TurboPotat0
+e3442da6-e43b-4e04-b5e4-9b8b549dd9f4 | 2025-07-27 22:30 | LOSS -----players -> yooun05, Dr_StYv, andreasbeast79, TurboPotat0
+b0a76feb-dc64-4995-9692-dbd727fdbad3 | 2025-07-27 22:16 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79, TurboPotat0
+23862dbd-684a-458d-b97d-ca9a8829654b | 2025-07-27 22:52 | LOSS -----players -> yooun05, Dr_StYv, andreasbeast79, TurboPotat0
+1993de84-0ae7-418d-a89b-9a0a90d84c74 | 2025-07-29 16:10 | LOSS -----players -> andreasbeast79
+99b9946f-2dd2-48b5-9b1a-f2246b1bc200 | 2025-07-28 21:23 | LOSS -----players -> TurboPotat0
+c0b6006f-7a67-4161-bdf4-8897bdef19c7 | 2025-07-29 19:39 | LOSS -----players -> andreasbeast79
+504d9149-b3b4-49ed-8df0-ff6e5f0aa3db | 2025-07-29 19:46 | LOSS -----players -> andreasbeast79
+661dae62-445a-4d9f-98bf-6d9b20b05e88 | 2025-07-29 20:06 | LOSS -----players -> Dr_StYv, andreasbeast79
+d18dcc37-5a0b-4573-96e1-d96c4c235652 | 2025-07-29 20:30 | LOSS -----players -> Fransbertil, Dr_StYv, andreasbeast79
+16fb7251-b67f-4646-902d-b741b73b7da9 | 2025-07-29 20:35 | LOSS -----players -> Fransbertil, Dr_StYv, andreasbeast79
+3c503ee3-9cba-45fd-9a8e-37b4a3e17106 | 2025-07-29 20:52 | LOSS -----players -> Fransbertil, Dr_StYv, andreasbeast79
+c0f01a04-c3df-4634-bc14-dce442e6abac | 2025-07-29 21:17 | LOSS -----players -> Fransbertil, Dr_StYv, Fatalityh, andreasbeast79
+dc0b8e3e-381c-40bd-8523-5b0b376a9905 | 2025-07-29 21:42 | LOSS -----players -> Fransbertil, Dr_StYv, Fatalityh, andreasbeast79
+e2dea189-2ddc-4d08-869c-a30a51fe87eb | 2025-07-29 22:09 | LOSS -----players -> Fransbertil, Dr_StYv, Fatalityh, andreasbeast79
+773d2fd7-f757-4a86-a451-6bb2ee10b720 | 2025-07-29 22:34 | LOSS -----players -> Fransbertil, Dr_StYv, Fatalityh, andreasbeast79
+888f5045-6600-49e2-95c2-1a4fa958a650 | 2025-07-29 22:38 | LOSS -----players -> Fransbertil, Dr_StYv, Fatalityh, andreasbeast79
+582da343-4b89-4fcd-8b13-332d23e3f6a2 | 2025-07-29 22:44 | LOSS -----players -> Fransbertil, Dr_StYv, Fatalityh, andreasbeast79
+e8ddebb6-ccf9-4355-ac6d-2891c9c3b0d5 | 2025-07-30 19:53 | LOSS -----players -> TurboPotat0
+bc5d3a18-8267-4117-ab68-2db411d8926d | 2025-07-30 19:56 | LOSS -----players -> TurboPotat0
+e78446c1-28d8-4cc5-b912-9e081f2675a1 | 2025-07-30 20:18 | LOSS -----players -> TurboPotat0
+13d7919a-4d6d-4e7c-bb14-30abdbc895da | 2025-07-30 20:36 | LOSS -----players -> Fransbertil, yooun05, Fatalityh
+b6060775-8371-47cc-bde9-9b8014d3bff2 | 2025-07-30 20:40 | LOSS -----players -> TurboPotat0
+0c857431-0b45-4161-a12d-bd778ab23687 | 2025-07-30 20:56 | WIN -----players -> Fransbertil, yooun05, Fatalityh
+7d0bb52f-21ba-4da0-9f87-4ba88d9451dc | 2025-07-30 21:08 | LOSS -----players -> TurboPotat0
+549ce543-ce6f-4d2d-a9e2-94cab9d3ed56 | 2025-07-30 21:22 | LOSS -----players -> TurboPotat0
+717c308a-1e73-4703-80b4-8d5e6faaffd6 | 2025-07-30 21:18 | LOSS -----players -> TurboPotat0
+2aa80e46-ac8e-434d-935b-a15155d8a399 | 2025-07-30 21:23 | LOSS -----players -> Fransbertil, yooun05, Fatalityh
+5765705d-6b56-481c-8960-007a7335919d | 2025-07-30 21:39 | LOSS -----players -> Fransbertil, yooun05, Fatalityh, andreasbeast79
+1f083e43-d859-433d-b508-5c6abac93f8d | 2025-07-30 22:00 | LOSS -----players -> Fransbertil, yooun05, Fatalityh, andreasbeast79
+fd67fe42-8992-4546-8d03-cda41b310d15 | 2025-07-30 22:20 | LOSS -----players -> Fransbertil, yooun05, Fatalityh, andreasbeast79
+deed328c-d478-4495-a3b4-a87a2e1741cf | 2025-07-30 22:25 | LOSS -----players -> TurboPotat0
+a8c7fd34-5efc-4d65-ab3d-b3e09c398a30 | 2025-07-30 22:29 | LOSS -----players -> TurboPotat0
+d2fadec6-83eb-4efb-b2d4-9a6ee142f155 | 2025-07-30 22:36 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, andreasbeast79
+2fecfd6d-8580-44b1-9f0b-81bdda942733 | 2025-07-30 22:48 | LOSS -----players -> TurboPotat0
+4897c22d-2628-47d8-8860-ff2f856287bc | 2025-07-30 23:03 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, andreasbeast79
+356d9012-a23f-4659-9114-981a4b67ab6b | 2025-07-30 23:10 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, andreasbeast79
+db7b8840-9b9c-41b7-b655-681048a9db93 | 2025-07-31 20:02 | LOSS -----players -> andreasbeast79, TurboPotat0
+a4cd96b2-b71f-463c-bc42-0bdb82dc7237 | 2025-07-31 20:04 | LOSS -----players -> Fransbertil, yooun05, Fatalityh
+1564c717-1a19-4e22-b1a6-a2ac72b60eaf | 2025-07-31 20:08 | LOSS -----players -> Fransbertil, yooun05, Fatalityh
+c731892a-1d8b-46b7-9649-946db26f5418 | 2025-07-31 20:17 | LOSS -----players -> Fransbertil, yooun05, Fatalityh
+587a84e5-8b97-4a72-9b35-aef4229972a2 | 2025-07-31 20:26 | LOSS -----players -> andreasbeast79, TurboPotat0
+82575d6a-1e0a-42a3-9165-522572962029 | 2025-07-31 20:31 | LOSS -----players -> andreasbeast79, TurboPotat0
+f12e44b2-3e2c-4bf1-9171-f9973e8e9dcb | 2025-07-31 20:38 | LOSS -----players -> Fransbertil, yooun05, Fatalityh
+2015fe84-4649-49b2-8a4b-5953f4130502 | 2025-07-31 20:41 | LOSS -----players -> andreasbeast79, TurboPotat0
+22640752-62d1-415e-8171-db88c99002a5 | 2025-07-31 20:46 | LOSS -----players -> Fransbertil, yooun05, Fatalityh
+2006c57a-cf7b-4f22-ae8d-5120f000a43d | 2025-07-31 20:53 | LOSS -----players -> andreasbeast79, TurboPotat0
+a900ba8a-0a67-471f-a6c6-050848c87d67 | 2025-07-31 21:03 | LOSS -----players -> andreasbeast79, TurboPotat0
+62faa511-c3ee-4fa2-9640-31e57f343cd2 | 2025-07-31 21:11 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, Fatalityh
+920839ed-7cb6-4f32-b1c8-407cfc1442e3 | 2025-07-31 21:32 | LOSS -----players -> andreasbeast79, TurboPotat0
+143e0940-aea4-4577-bd2e-f7525030f36f | 2025-07-31 21:37 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, Fatalityh
+4063f52e-aba6-4e19-920b-22e426223f3d | 2025-07-31 21:42 | LOSS -----players -> andreasbeast79, TurboPotat0
+16bac5f0-c66c-4a8a-8e12-01d4101fc075 | 2025-07-31 21:43 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, Fatalityh
+06610a3f-be03-47ab-9e85-017787c3eaec | 2025-07-31 21:48 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, Fatalityh
+8a231d48-72fe-446e-8d5c-ff7d4350d04b | 2025-07-31 21:59 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, Fatalityh
+157954ec-a4d1-43f1-b1bb-5e8f6da3ac55 | 2025-07-31 22:10 | LOSS -----players -> andreasbeast79, TurboPotat0
+c2577e0f-44a0-432e-84ef-160cc63dd611 | 2025-07-31 22:16 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, Fatalityh
+aebbda66-04a9-4200-b91d-2ebe6c1e40eb | 2025-07-31 22:30 | LOSS -----players -> andreasbeast79
+0aaff7a1-1960-442d-a7e3-a6e36a7fb8cd | 2025-07-31 22:36 | LOSS -----players -> andreasbeast79
+646bc96a-38e6-4bab-be29-5e6a8e621c56 | 2025-07-31 22:39 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, Fatalityh
+7d35e7b5-c211-4494-a15c-dd34a3f22842 | 2025-07-31 22:45 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, Fatalityh
+dcefba74-a5e0-42dc-b9f3-fbb6c36a5bf8 | 2025-07-31 22:52 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, Fatalityh
+d3ec59d8-44d4-4805-aac9-431858cb0b36 | 2025-07-31 23:09 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, Fatalityh
+80709846-d08e-4703-b764-b77b5383bd73 | 2025-07-31 23:17 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, Fatalityh
+150f3158-ce07-445a-8f28-9aaf4d5038d8 | 2025-08-01 16:41 | LOSS -----players -> andreasbeast79
+9d10cde1-5574-447c-aabf-34b73f10f480 | 2025-08-01 18:06 | LOSS -----players -> andreasbeast79
+bcbdfd03-9422-4ae9-8a00-ce751fd72bbe | 2025-08-01 18:11 | LOSS -----players -> andreasbeast79
+8674c827-28ae-4f4e-8573-cb95cd2cdff8 | 2025-08-01 18:19 | LOSS -----players -> andreasbeast79
+43bc4060-c0e5-43ea-8c50-8d801b0f32a8 | 2025-08-01 18:48 | LOSS -----players -> andreasbeast79
+0be69749-0fc6-455b-af4b-8c1174c265fd | 2025-08-01 18:59 | LOSS -----players -> andreasbeast79
+3a947e1c-411d-428b-a1aa-610ccac498e7 | 2025-08-01 19:20 | LOSS -----players -> andreasbeast79
+83b5e0f1-40ed-4658-88f3-10ba29e4ba70 | 2025-08-01 19:24 | LOSS -----players -> andreasbeast79
+78ecc59e-ccac-47ce-8a87-108ced7fd48c | 2025-08-01 20:04 | LOSS -----players -> andreasbeast79
+faaba713-b6fc-4b84-8439-9d7524136b8c | 2025-08-01 20:03 | LOSS -----players -> TurboPotat0
+10e5946e-c0a0-4195-a6e6-0ccd2b92f04b | 2025-08-01 20:10 | LOSS -----players -> TurboPotat0
+37be2231-0300-481a-b4bb-8b2d5582086e | 2025-08-01 20:21 | LOSS -----players -> TurboPotat0
+3220b1bc-125d-478d-973b-9fa73aa144b3 | 2025-08-01 20:26 | LOSS -----players -> TurboPotat0
+3d38f66c-6405-4c51-8770-5fa82602a85f | 2025-08-01 20:37 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79
+c4bf4285-e07b-4e31-b536-f702060fcfb1 | 2025-08-01 20:43 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79
+fc99f21d-4653-4c63-8635-0f6a76787946 | 2025-08-01 20:45 | LOSS -----players -> Dr_StYv, TurboPotat0
+4991c460-61e9-44a1-8184-8389ef159d53 | 2025-08-01 20:55 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79
+9217e390-6376-4843-a867-034778494362 | 2025-08-01 21:02 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79
+8e866c88-d5bc-4191-8fef-c190a3e9657a | 2025-08-01 21:07 | LOSS -----players -> Dr_StYv, TurboPotat0
+fcad2623-ac0e-4e2b-ae7f-4108f6d07a65 | 2025-08-01 21:12 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79
+fc586324-7992-48e1-8717-2fca758942e1 | 2025-08-01 21:24 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79
+bcecc464-1f5a-43c0-9e39-e13c7a62b513 | 2025-08-01 21:43 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79
+8c12b708-1671-4217-a923-04ce906a5a92 | 2025-08-01 21:47 | LOSS -----players -> Dr_StYv, TurboPotat0
+a464e98d-286d-42c8-a988-95cdfd6f5e7d | 2025-08-01 21:54 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79
+c515026c-bc3b-4870-8555-62ecee56e77b | 2025-08-01 22:03 | LOSS -----players -> Dr_StYv, TurboPotat0
+7092876a-3748-4e4c-938a-2742028fb630 | 2025-08-01 22:09 | LOSS -----players -> Dr_StYv, TurboPotat0
+5f25e244-25c7-4c27-9493-719fad9d0308 | 2025-08-01 22:14 | LOSS -----players -> Dr_StYv, TurboPotat0
+d335e2f6-53d0-45ad-843d-4b8c137ddf94 | 2025-08-01 22:14 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79
+a2b2b481-83d0-48cf-b429-1b430a74a795 | 2025-08-01 22:25 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79
+47c93e20-0d16-4b56-9b6b-16132453d0df | 2025-08-01 22:33 | LOSS -----players -> Fransbertil, andreasbeast79
+684f38d8-1e26-4b81-a9a5-683d2a46d630 | 2025-08-01 22:37 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79
+9d7a17fd-97e1-4bff-acca-7bf781e5d8c0 | 2025-08-01 22:40 | LOSS -----players -> Dr_StYv, TurboPotat0
+e9546485-95e9-415f-987d-972fdbcb0ddc | 2025-08-01 22:43 | LOSS -----players -> Fransbertil, yooun05, andreasbeast79
+3cc66448-05a0-4117-b25d-24b91788dff7 | 2025-08-02 20:49 | WIN -----players -> yooun05
+b5571d40-98c1-48f0-abe0-2408c708020d | 2025-08-02 21:27 | LOSS -----players -> yooun05
+6eac6889-b335-45a6-8754-426825915bf6 | 2025-08-02 21:31 | LOSS -----players -> yooun05
+fe10d5be-4765-4d43-99ed-21f33ed9d721 | 2025-08-02 21:57 | LOSS -----players -> Fransbertil, yooun05, TurboPotat0
+3acd191b-aea1-45b3-8aed-e356d76fd2e8 | 2025-08-02 22:09 | LOSS -----players -> Fransbertil, TurboPotat0
+15239ceb-537c-486d-a99e-bcf6af57f3c3 | 2025-08-02 22:06 | LOSS -----players -> Fransbertil, TurboPotat0
+783bdae9-7d23-4347-946d-c937fab83a97 | 2025-08-02 22:20 | LOSS -----players -> Fransbertil, Dr_StYv, TurboPotat0
+6871fd6c-4572-4f3d-973d-09e450fc5e4a | 2025-08-02 22:26 | LOSS -----players -> Fransbertil, Dr_StYv, TurboPotat0
+2cb989ec-299d-4400-b9b0-fc1864e6be9f | 2025-08-02 22:34 | LOSS -----players -> Fransbertil, Dr_StYv, TurboPotat0
+2556cdb7-a5ae-46b6-81f4-a55fcf42728a | 2025-08-02 23:01 | LOSS -----players -> Fransbertil, Dr_StYv, TurboPotat0
+5a4ae16a-b4db-41ba-8b4d-f8d702eca1e8 | 2025-08-02 23:09 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+5cc5a410-6826-4c1c-b94d-312dd6940c55 | 2025-08-02 23:14 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+7811461a-735d-447f-a042-20b41e7c5e9c | 2025-08-02 23:34 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+2beac887-11b9-4442-876f-32e15330024c | 2025-08-02 23:39 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+662aaf7d-9c14-4463-bcd7-03cbe39bb403 | 2025-08-03 00:01 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+efe2e122-3e33-4091-8ed8-97b96a5053fa | 2025-08-03 00:09 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+8bd39f93-5c78-4520-8f44-fa8f53a6850b | 2025-08-03 00:13 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+d346cd09-560f-42c3-b411-c8550cd7d71d | 2025-08-03 00:30 | WIN -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+82db3883-faf3-4d46-900e-45ea04c43697 | 2025-08-03 00:58 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+47ec1aea-ed66-4127-a33d-0a1093278734 | 2025-08-03 01:09 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+aa1bdd80-cd71-4cfc-a783-8a3922289925 | 2025-08-03 01:29 | WIN -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+fc01bfdd-a826-48b6-8ac8-d4ab3482291e | 2025-08-03 01:58 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+04e95b20-e9cb-484f-bd0a-10499828a32c | 2025-08-03 12:53 | LOSS -----players -> TurboPotat0
+4e7968d0-fd8d-4887-a07e-8afe5cffb882 | 2025-08-03 13:07 | LOSS -----players -> TurboPotat0
+db0f62b9-7ec4-4448-b3b9-2fd54ffbf923 | 2025-08-03 13:24 | LOSS -----players -> TurboPotat0
+5d9f0cb3-b974-422f-aed6-17e3a09b90b5 | 2025-08-03 13:46 | LOSS -----players -> TurboPotat0
+34256494-48a2-4364-bcad-10271658630a | 2025-08-03 14:10 | LOSS -----players -> TurboPotat0
+c3841c74-b1cd-40fc-8d22-6347d341e418 | 2025-08-03 14:29 | LOSS -----players -> TurboPotat0
+71e32561-ba6a-49a4-a841-2680e1b49384 | 2025-08-03 14:57 | LOSS -----players -> TurboPotat0
+1db7fd26-67cc-4081-a38c-61bbff7d90e3 | 2025-08-03 20:13 | LOSS -----players -> TurboPotat0
+66f0f957-2443-4ebc-bdc4-9aa2fbe02b18 | 2025-08-03 20:24 | LOSS -----players -> Dr_StYv, TurboPotat0
+f8cea863-5c7b-44a7-805f-ede07b914821 | 2025-08-03 20:47 | LOSS -----players -> yooun05, Dr_StYv, TurboPotat0
+8f903a85-3c66-48b9-9ce3-7b80a894eaa2 | 2025-08-03 21:10 | LOSS -----players -> yooun05, Dr_StYv, TurboPotat0
+4bc814ed-8db4-4b95-a93f-241e1874b9ec | 2025-08-03 21:31 | LOSS -----players -> Fransbertil, Dr_StYv, TurboPotat0
+c7237d9c-d9d7-433a-abb7-0fe578140b61 | 2025-08-03 21:57 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+d6818f7b-74c6-4604-a521-0d7fef4e2f6b | 2025-08-03 22:19 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+0ac7fd12-3b5d-4589-b245-9a449ae36fb5 | 2025-08-03 22:27 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+1c9ffe51-6f00-4fcc-a2b3-85a763454dc3 | 2025-08-03 22:35 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+d24aa575-4371-44da-a4a4-2c95c589a36d | 2025-08-03 22:46 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+39c89a52-a897-4456-aeed-045727815af5 | 2025-08-03 22:58 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+6eb02756-e905-43a3-9636-d3b0290db429 | 2025-08-04 21:36 | LOSS -----players -> TurboPotat0
+67d58571-1582-45fa-a264-a337a3bb6a4e | 2025-08-04 21:36 | LOSS -----players -> Fransbertil, yooun05
+a184e822-a655-4d73-a367-4ee9eefe8580 | 2025-08-04 21:05 | LOSS -----players -> TurboPotat0
+c292e632-caa6-4573-8c57-c30228bc2982 | 2025-08-04 19:19 | LOSS -----players -> TurboPotat0
+1bf5d60c-736f-46e3-b3a4-73cfb66ee1f9 | 2025-08-04 20:18 | WIN -----players -> TurboPotat0
+77551226-34dd-4f5c-8ab5-45ab69af1520 | 2025-08-04 21:31 | LOSS -----players -> Fransbertil, yooun05
+423b485b-3831-4bff-873e-ac41c7f0f9a8 | 2025-08-04 21:41 | WIN -----players -> Fransbertil, yooun05, Dr_StYv
+89e43f36-eb10-497f-ba09-7276a9c7c636 | 2025-08-04 21:18 | LOSS -----players -> Fransbertil, yooun05
+45bd1bf1-f278-4974-a9ed-ba4373b25007 | 2025-08-04 20:42 | WIN -----players -> TurboPotat0
+532729cc-1878-4135-a40e-8ec32218d816 | 2025-08-04 21:25 | LOSS -----players -> Fransbertil, yooun05
+b860198d-b982-41d8-9793-56d482b630c7 | 2025-08-04 22:10 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv
+a63d652b-cad2-4766-800a-7210a84e5f58 | 2025-08-04 22:27 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv
+6a7a16a6-5b6b-4dd5-b265-0e29ad7dfe0b | 2025-08-04 22:34 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+b4ba25fc-172f-4825-b7de-9b9a90018302 | 2025-08-04 22:41 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+a6a96c64-e2aa-4c4c-bb42-e9d78bd63d08 | 2025-08-04 18:53 | LOSS -----players -> TurboPotat0, Pehrnow
+b4402e05-63a7-4dc8-8a91-8ca77d7fb00a | 2025-08-04 23:02 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+9fc5b817-ca18-4a3f-94df-cc3494a801ea | 2025-08-04 23:08 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+b383898a-17b3-4276-a6b7-c65be118af9f | 2025-08-05 20:41 | WIN -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+abe7f707-30b7-4fa7-894f-aee35468973b | 2025-08-05 21:10 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+b8baf6e2-e92b-4eb8-939a-7fd0edb625c5 | 2025-08-05 21:15 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+7cd6971f-6766-4fd0-9ad7-e976f6150d00 | 2025-08-05 21:25 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+e65cbb61-6eb0-4e08-aade-1bbfb48d66e1 | 2025-08-05 21:31 | WIN -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+81bd05dc-9edd-4c6f-95f3-9d2a46edbd6e | 2025-08-05 21:59 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+e589434f-b300-4622-a55c-3e091c1ab8fd | 2025-08-05 22:04 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+efaa29ce-e5d7-43eb-a596-25643e191da6 | 2025-08-05 22:07 | WIN -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+1f00cba3-426c-41b2-bf09-e64e89185b70 | 2025-08-05 22:36 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+5736bb41-519c-4ba5-8317-0c5b40abac53 | 2025-08-05 22:56 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+d4f026e5-6fb7-4b15-a67a-795d1dd5b788 | 2025-08-05 23:00 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+ed67eef2-37a2-4abb-9855-78592f29218e | 2025-08-05 23:09 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
+384eaea1-3c68-4d72-a7de-09bad8826aad | 2025-08-05 23:15 | LOSS -----players -> Fransbertil, yooun05, Dr_StYv, TurboPotat0
