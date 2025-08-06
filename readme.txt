@@ -2,14 +2,13 @@
 This is a fun project I built to tracks certain players recent matches and statistics and post it to a specific discord channel. 
 
 
-![](battlegrounds.jpg)
+![Sample match overview](example.jpg)
 
 
 ## Features
 
 - Fetch player statistics
 - Retrieve match details
-- Access leaderboards
 - Easy-to-use API client
 - Well-documented codebase
 
