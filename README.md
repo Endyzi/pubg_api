@@ -2,7 +2,7 @@
 This is a fun project I built to tracks certain players recent matches and statistics and post it to a specific discord channel. 
 
 
-![](example.jpg)
+![](example_.jpg)
 
 
 ## Features
